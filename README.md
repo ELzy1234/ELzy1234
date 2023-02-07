@@ -1,10 +1,6 @@
 ### Hello Everyone 👋
 
 
-**ELzy1234/ELzy1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I am currently not working.Im a student.
 - 🌱 I’m currently learning Data Analysis.
 - 👯 I’m looking to collaborate on data projects
