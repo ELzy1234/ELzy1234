@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-<!--
+
 **ELzy1234/ELzy1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@halilefeertürk](mailto:efelokko2323e@gmail.com)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I love watching animes and reading mangas.
--->
+
 
 
 
